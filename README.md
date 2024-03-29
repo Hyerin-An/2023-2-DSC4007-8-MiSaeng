@@ -45,6 +45,6 @@ node2vec은 random walk로 그래프 내의 노드를 랜덤하게 이동해서 
 임베딩된 각각의 약물, 질병 임베딩 값을 한 쌍으로 결합한 벡터를 input으로, 치료/완화 관계가 있는지 없는지의 2class classification을 진행합니다.
 
 
-
+<img src="https://github.com/CSID-DGU/2023-2-DSC4007-8-MiSaeng/files/14799742/drug.table.pdf">
 
 
