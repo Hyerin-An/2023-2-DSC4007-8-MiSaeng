@@ -4,7 +4,7 @@
 ## 💊Introduction
 주제 : 기존 약물의 기타 질병치료로의 활용 가능성 확장(약물 재창출)  
 
-💡신약개발 연구는 많은 비용과 시간이 들지만 대부분 실패합니다. 여러 실험 데이터가 있는 기존 약물이 다른 질병 치료에 쓰일 수 있다면 매우 효율적일 것입니다. 
+💡신약개발 연구는 많은 비용과 시간이 들지만 대부분 실패합니다. 여러 실험 데이터가 있는 기존 약물이 다른 질병 치료에 쓰일 수 있다면 매우 효율적일 것입니다.  
 💡절약된 자원은 환자의 비용 부담을 줄이고, 더 많은 의학 연구에 활용될 수 있습니다. 
 
 ## 👩🏻‍💻팀원
@@ -36,7 +36,6 @@
 우리는 데이터 내 약물의 유전자와의 관계, 그 유전자의 관계들을 이용해  
 약물의 기존에 밝혀진 질병 치료뿐만 아니라 ***데이터 내 기타 질병 치료로의 활용 가능성***을 확인하는 것을 목표로 합니다.  
 
-참고문헌
 Bang, D., Lim, S., Lee, S., & Kim, S. (2023). Biomedical knowledge graph learning for drug repurposing by extending guilt-by-association to multiple layers. *Nature Communications*, 14, Article 3570. [https://www.nature.com/articles/s41467-023-39301-y](https://www.nature.com/articles/s41467-023-39301-y)
 
 
@@ -45,7 +44,6 @@ Node2Vec은 그래프 데이터 내의 약물, 유전자, 질병의 관계를 �
 word2vec은 문장 안에서 단어 사이의 유사도를 이용해 임베딩한다면  
 node2vec은 그래프 안에서 다른 노드와의 관계를 이용해 노드를 저차원의 벡터 공간으로 투영시켜 임베딩합니다.  
 
-참고문헌 
 Grover, A., & Leskovec, J. (2016). node2vec: Scalable Feature Learning for Networks. *arXiv preprint arXiv:1607.00653*. [https://arxiv.org/pdf/1607.00653](https://arxiv.org/pdf/1607.00653)
 
 ## ⏩진행방향
