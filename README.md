@@ -6,6 +6,9 @@
 
 💡신약개발 연구는 많은 비용과 시간이 들지만 대부분 실패합니다. 여러 실험 데이터가 있는 기존 약물이 다른 질병 치료에 쓰일 수 있다면 매우 효율적일 것입니다. 절약된 자원은 환자의 비용 부담을 줄이고, 더 많은 의학 연구에 활용될 수 있습니다. 
 
+## 특허 출원 완료  
+<img width="550" alt="스크린샷 2024-06-30 오전 1 28 35" src="https://github.com/CSID-DGU/2023-2-DSC4007-8-MiSaeng/assets/144013861/ab75facd-5b73-454b-b4d9-cb14d0050089">
+
 ## 👩🏻‍💻팀원
 - 미디어커뮤니케이션학과 안혜린
 - 생명과학과 김예원
@@ -53,13 +56,13 @@ node2vec은 random walk로 그래프 내의 노드를 랜덤하게 이동해서 
 ## Model Selection
 Label bias를 해결하기 위한 Random Over Sampling,  
 클래스별 예측 확률 신뢰도와 성능 개선을 위한 XGBoost를 선택했습니다.  
-<img width="718" alt="그림1" src="https://github.com/CSID-DGU/2023-2-DSC4007-8-MiSaeng/assets/144013861/7bd738bc-5c3d-4ff8-bebe-2c8ce7549dfb">
+<img width="400" alt="그림1" src="https://github.com/CSID-DGU/2023-2-DSC4007-8-MiSaeng/assets/144013861/7bd738bc-5c3d-4ff8-bebe-2c8ce7549dfb">
 
 
 ## 📑Discussion
 가장 유의한 결과를 얻을 수 있는 breast cancer, 유방암 관련 예측 확률 상위10개의 후보약물 표입니다.  
 이미지를 눌러 pdf를 다운받으면, Evidences에 첨부된 선행연구자료를 확인할 수 있습니다.  
 2번을 제외하고 치료 효과에 대한 연구자료가 있으며, 6,8,9번의 경우 부작용에 대한 언급이 있어 검증이 필요합니다.
-<img src="https://github.com/CSID-DGU/2023-2-DSC4007-8-MiSaeng/files/14799742/drug.table.pdf">
+<img src="https://github.com/CSID-DGU/2023-2-DSC4007-8-MiSaeng/files/14799742/drug.table.pdf">  
 
 
