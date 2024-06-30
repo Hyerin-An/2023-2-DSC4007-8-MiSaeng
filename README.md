@@ -7,8 +7,7 @@
 💡신약개발 연구는 많은 비용과 시간이 들지만 대부분 실패합니다. 여러 실험 데이터가 있는 기존 약물이 다른 질병 치료에 쓰일 수 있다면 매우 효율적일 것입니다. 절약된 자원은 환자의 비용 부담을 줄이고, 더 많은 의학 연구에 활용될 수 있습니다. 
 
 ## 특허 출원 완료  
-<img width="550" alt="스크린샷 2024-06-30 오전 1 28 35" src="https://github.com/CSID-DGU/2023-2-DSC4007-8-MiSaeng/assets/144013861/ab75facd-5b73-454b-b4d9-cb14d0050089">
-![표_블라인드](https://github.com/Hyerin-An/2023-2-DSC4007-8-MiSaeng/assets/144013861/02131dd3-0eb9-4670-b7ee-9a3e55fbf11c)
+<img width="550" alt="스크린샷 2024-06-30 오후 10 23 25" src="https://github.com/Hyerin-An/2023-2-DSC4007-8-MiSaeng/assets/144013861/60e9fd4c-f625-4917-bd4c-541693a28d63">
 
 
 ## 👩🏻‍💻팀원
